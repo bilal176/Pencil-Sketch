@@ -1,0 +1,5 @@
+This code is used draw your image sketch by using python
+1.This code of line needs to install cv2 library of python 
+2.select the image which you want to make sketch 
+3.Save the sketch.
+4.Your sketch will save on the location where your files are saved. Open from that address your sketch is ready.
